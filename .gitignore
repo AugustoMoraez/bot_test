@@ -1,0 +1,15 @@
+# Dependências
+node_modules/
+
+# Backups
+backup/
+
+# Cache do whatsapp-web.js
+.wwebjs_cache/
+
+# Logs
+*.log
+
+# Build/Dist
+dist/
+build/
